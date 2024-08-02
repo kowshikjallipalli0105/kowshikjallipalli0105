@@ -26,7 +26,7 @@
 <a href="https://auth.geeksforgeeks.org/user/kowshik0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kowshik0105" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kowshik0105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kowshik0105" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kowshik01052005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kowshik01052005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kowshik015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kowshik0105" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kowshik0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kowshik0105" height="30" width="40" /></a>
 
 </p>
 
