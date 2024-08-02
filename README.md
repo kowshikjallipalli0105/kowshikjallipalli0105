@@ -16,7 +16,7 @@
 - 📧 Email: [jallipallikowshikguptha@gmail.com](mailto:jallipallikowshikguptha@gmail.com.com)
 - 💼 LinkedIn: [Kowshik Jallipalli](https://www.linkedin.com/in/kowshik-jallipalli)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omteja04&label=Profile%20views&color=0e75b6&style=flat" alt="omteja04" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 
