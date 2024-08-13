@@ -2,7 +2,7 @@
 
 <h1 align="center"> 👋 Hi, I’m Kowshik!</h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Information Technology.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshikjallipalli0105&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh1545" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshikjallipalli0105&label=Profile%20views&color=0e75b6&style=flat" alt="kowshik0105" /> </p>
 
 
 - 🔎 I'm actively seeking Internship Opportunities, **If you are someone who is hiring or can refer me please reach out to me.**
