@@ -58,11 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowshikjallipalli0105&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=kowshikjallipalli0105&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=kowshikjallipalli0105)](https://git.io/streak-stats)
-</div>
-
 <!-- </details> -->
 
 <!-- <br clear="both">
