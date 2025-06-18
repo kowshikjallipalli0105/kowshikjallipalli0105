@@ -13,7 +13,7 @@
 
 ## Reach Me
 
-- 📧 Email: [jallipallikowshikguptha@gmail.com](mailto:jallipallikowshikguptha@gmail.com.com)
+- 📧 Email: [jallipallikowshikguptha@gmail.com](mailto:kowshik0105@gmail.com.com)
 - 💼 LinkedIn: [Kowshik Jallipalli](https://www.linkedin.com/in/kowshik-jallipalli)
 
 
