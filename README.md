@@ -12,13 +12,13 @@
 
 ## 📌 About Me
 
-🎓 B.Tech IT Student at Aditya College Of Engineering And Technology.
-🚀 Enthusiastic about problem-solving, DevOps, and system-level development .
-🖥️ Hands-on experience with Docker, Kubernetes, Jenkins, and AWS.
-💻 Skilled in Java, Python, C/C++, R, HTML/CSS, JavaScript, React.
-📊 Proficient in MySQL, MongoDB, and NoSQL databases.
-📚 Strong foundation in Operating Systems, DBMS, OOP, and DSA.
-🔧 Comfortable with Linux systems, especially Red Hat and CentOS.
+🎓 B.Tech IT Student at Aditya College Of Engineering And Technology
+🚀 Enthusiastic about problem-solving, DevOps, and system-level development
+🖥️ Hands-on experience with Docker, Kubernetes, Jenkins, and AWS
+💻 Skilled in Java, Python, C/C++, R, HTML/CSS, JavaScript, React
+📊 Proficient in MySQL, MongoDB, and NoSQL databases
+📚 Strong foundation in Operating Systems, DBMS, OOP, and DSA
+🔧 Comfortable with Linux systems, especially Red Hat and CentOS
 🛠️ Actively using Git, GitHub, and Figma for version control and design
 
 <div align="center">
