@@ -1,65 +1,155 @@
 ### Hi there 👋
 
-<h1 align="center"> 👋 Hi, I’m Kowshik!</h1>
-<h3 align="center">A Student Pursuing Bachelor of Technology in Information Technology.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kowshikjallipalli0105&label=Profile%20views&color=0e75b6&style=flat" alt="kowshik0105" /> </p>
-
-
-- 🔎 I'm actively seeking Internship Opportunities, **If you are someone who is hiring or can refer me please reach out to me.**
-
-- 🌱 I’m currently learning front-end web development and cloud development.
-
-- 🚀 I’m also pursuing the AWS Certified Developer – Associate certification, focusing on cloud development.
-
-## Reach Me
-
-- 📧 Email: [jallipallikowshikguptha@gmail.com](mailto:kowshik0105@gmail.com.com)
-- 💼 LinkedIn: [Kowshik Jallipalli](https://www.linkedin.com/in/kowshik-jallipalli)
-
-
-
-<h3 align="left">Connect with me::</h3>
-
-<p align="left">
-  <a href="https://instagram.com/kowshikguptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kowshikguptha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kowshik-jallipalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kowshik Jallipalli" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kowshik0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kowshik0105" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kowshik0105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kowshik0105" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kowshik01052005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kowshik01052005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kowshik0105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kowshik0105" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<!-- <details>
-<summary> -->
-
-<!-- </summary> -->
+<h1 align="center">
+  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" alt="wave" width="40" /> I'm Jallipalli Kowshik
+</h1>
 
 <div align="center">
-  
-<h3 align="left">GeeksforGeeks Statistics:</h3>
-<a href="https://auth.geeksforgeeks.org/user/kowshik0105">
-    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=kowshik0105" alt="kowshik's GeeksforGeeks Stats">
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=435&lines=Problem+Solver;Frontend+Web+Developer;Cloud+Developer; ServiceNow+Developer; Intrested+In+Learning+New+Tech!" alt="Typing SVG" />
+</div>
 
+---
 
-<h3 align="left">LeetCode Statistics:</h3>
-<a href="https://leetcode.com/kowshik0105/">
-    <img src="https://leetcard.jacoblin.cool/kowshik0105?ext=contest" alt="kowshik's LeetCode Stats">
+## 📌 About Me
+
+🎓 B.Tech IT Student at Aditya College Of Engineering And Technology.
+🚀 Enthusiastic about problem-solving, DevOps, and system-level development .
+🖥️ Hands-on experience with Docker, Kubernetes, Jenkins, and AWS.
+💻 Skilled in Java, Python, C/C++, R, HTML/CSS, JavaScript, React.
+📊 Proficient in MySQL, MongoDB, and NoSQL databases.
+📚 Strong foundation in Operating Systems, DBMS, OOP, and DSA.
+🔧 Comfortable with Linux systems, especially Red Hat and CentOS.
+🛠️ Actively using Git, GitHub, and Figma for version control and design
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=kowshikjallipalli0105&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+<a href="https://kowshikjallipalli0105.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 
 </div>
+---
 
-<h3 align="left">Github Statistics:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kowshikjallipalli0105&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kowshikjallipalli0105&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-<!-- </details> -->
+## 🛠️ Skills & Tools
 
-<!-- <br clear="both">
+### 🚀 Programming Languages
+`C++` • `Java` • `Python` • `C` • `R` 
 
-<img src="https://raw.githubusercontent.com/kowshikjallipalli0105/kowshikjallipalli0105/output/snake.svg" alt="Snake animation" />
+### 🌐 Web Technologies
+`HTML` • `CSS` • `JavaScript` • `React`
+
+### 🧰 Tools & Platforms
+`VS Code` • `Git` • `GitHub` • `Vercel` • `ServiceNow` 
+
+### 🗄️ Databases
+`SQL` • `NoSQL` • `MySQL` • `MongoDB` • `DynamoDB`
+
+
+
+### 💡 Core Computer Science
+`OOP` • `DSA` • `DBMS` • `Operating Systems` • `Computer Networks` • `Software Engineering`
+
+---
+
+## 💼 Experience
+
+### 🖥️ Operating Systems Intern – Technical Hub  *(Dec 2024 – April 2025)*
+- Gained hands-on experience with Linux (Red Hat, CentOS) environments
+- Explored core OS concepts including process management, memory management, file systems, and shell scripting
+- Built and tested custom shell scripts to automate tasks and improve system efficiency 
+- Supported peers by conducting knowledge-sharing sessions on OS topics and practical labs
+
+---
+
+### 🌐 Java  Intern – Technical Hub  *(Aug 2024 – Nov 2024)*  
+- Developed Java-based applications focusing on core concepts like OOP, multithreading, and exception handling
+- Debugged and optimized existing codebases to enhance performance and maintainability
+- Collaborated with peers on code reviews and contributed to version control using Git and GitHub
+
+---
+
+## 🌟 Projects
+
+| Project        | Tech Stack                 | Description |
+|----------------|----------------------------|-------------|
+| 🛵 **Food on Wheels** | MERN Stack                 |  Bringing hot meals to your doorstep with just a few clicks|
+| 📆 **Habit Tracer**    | HTML, CSS, JS, Aws Services              | Track your progress. Stay consistent. Transform your life. |
+| 🧠 **2048 Game**   | HTML, CSS, JS              | Simple to play, hard to master. Addictive 2048 experience! |
+|  📝**To-Do List**     | HTML, CSS, Js            | A minimalist To-Do App to keep you on track |
+
+
+---
+
+## 📜 Certifications
+- ☁️ **Developer Associate(DVA-CO2)** - Amazon Web Services
+- ✅ **IT Specialist (HTML & CSS, Python, Java)** – *Pearson VUE*
+- 🎩 **System Administrator (RHCSA)** – *Red Hat*
+- 🛠️ **System Administrator(CSA) and Application Developer(CAD)** – *ServiceNow*
+- 🧰 **GitHub Adminstrator** – *GitHub*
+
+
+---
+
+## 🏆 Achievements
+
+- 🧠 **1000+ Coding Problems Solved**  
+  Platforms: LeetCode, GeeksforGeeks, HackerRank, CodeChef
+- 🚀 Proven team player with leadership in mentoring 100+ juniors
+- 📌 Known for quick grasp of complex concepts and on-time execution
+- 🏆 Winner of Red Hat India Challenge,mentored 100+ juniors on OS concepts. 
+- 🌱 Currently Exploring: `ReactJS`, `Kuberneetes ` and `Trees Algorithms in C++`
+
+---
+
+## 🔗 Coding & Social Profiles
+
+### 👨‍💻 Coding Platforms  
+<a href="https://leetcode.com/kowshik0105" target="_blank">LeetCode</a> • 
+<a href="https://auth.geeksforgeeks.org/user/kowshik0105" target="_blank">GeeksforGeeks</a> • 
+<a href="https://www.hackerrank.com/profile/kowshik01052005" target="_blank">HackerRank</a> • 
+<a href="https://www.codechef.com/users/kowshik0105" target="_blank">CodeChef</a>
+
+### 🌐 Social & Professional  
+<!-- <a href="https://" target="_blank">Portfolio</a> •  -->
+<a href="https://www.linkedin.com/in/ayyappareddynandipati" target="_blank">LinkedIn</a> • 
+<a href="https://github.com/kowshikjallipalli0105" target="_blank">GitHub</a> • 
+<a href="https://instagram.com/kowshikguptha" target="_blank">Instagram</a>
+
+---
+
+## 📞 Contact Me
+
+- 📧 Email: [kowshik0105@gmail.com](mailto:kowshik0105@gmail.com)  
+- 📱 Phone: [+91-9542879464](tel:+919542879464)  
+- 💬 WhatsApp: [+91-9542879464](https://wa.me/919542879464)  
+- 📍 Address: Vegiwada, Andhra Pradesh, India – *Pin: 534452*
+
+
+---
+
+
+## 📊 Stats & Activity
+
+### 💡 LeetCode Stats  
+[![Ayyappa's LeetCode Stats](https://leetcard.jacoblin.cool/kowshik0105?ext=contest)](https://leetcode.com/kowshik0105)
+
+### 💻 GeeksforGeeks Stats  
+[![GFG Stats](https://gfgstatscard.vercel.app/kowshik0105?theme=light)](https://auth.geeksforgeeks.org/user/kowshik0105)
+
+---
+
+
+### 📈 GitHub Stats  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kowshikjallipalli0105&show_icons=true&theme=default)](https://github.com/kowshikjallipalli0105)
+
+### 🔥 Contribution Streak  
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kowshikjallipalli0105&theme=light&hide_border=false)](https://github.com/kowshikjallipalli0105)
+
+### 📚 Top Languages  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kowshikjallipalli0105&layout=compact)](https://github.com/kowshikjallipalli0105)
+
+
+
+### 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kowshikjallipalli0105&theme=github)](https://github.com/kowshikjallipalli0105)
