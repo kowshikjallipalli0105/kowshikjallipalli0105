@@ -79,7 +79,7 @@
 
 | Project        | Tech Stack                 | Description |
 |----------------|----------------------------|-------------|
-| 🛵 **Food on Wheels** | MERN Stack                 |  Bringing hot meals to your doorstep with just a few clicks|
+| 🛵 **Fresh on Wheels** | MERN Stack                 |  Bringing hot meals to your doorstep with just a few clicks|
 | 📆 **Habit Tracer**    | HTML, CSS, JS, Aws Services              | Track your progress. Stay consistent. Transform your life. |
 | 🧠 **2048 Game**   | HTML, CSS, JS              | Simple to play, hard to master. Addictive 2048 experience! |
 |  📝**To-Do List**     | HTML, CSS, Js            | A minimalist To-Do App to keep you on track |
