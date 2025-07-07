@@ -4,9 +4,10 @@
   Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" alt="wave" width="40" /> I'm Jallipalli Kowshik
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=435&lines=Problem+Solver;Frontend+Web+Developer;Cloud+Developer; ServiceNow+Developer; Intrested+In+Learning+New+Tech!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=435&lines=Problem+Solver;Frontend+Web+Developer;Cloud+Developer;ServiceNow+Developer;Interested+In+Learning+New+Tech!" alt="Typing SVG">
+</p>
+
 
 ---
 
