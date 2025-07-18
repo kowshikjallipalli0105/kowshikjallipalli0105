@@ -36,7 +36,6 @@
 </a>
 
 </div>
----
 
 ## 🛠️ Skills & Tools
 
