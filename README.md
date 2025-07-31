@@ -139,7 +139,7 @@
 ## 📊 Stats & Activity
 
 ### 💡 LeetCode Stats  
-[![Ayyappa's LeetCode Stats](https://leetcard.jacoblin.cool/kowshik0105?ext=contest)](https://leetcode.com/kowshik0105)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kowshik0105?ext=contest)](https://leetcode.com/kowshik0105)
 
 ### 💻 GeeksforGeeks Stats  
 [![GFG Stats](https://gfgstatscard.vercel.app/kowshik0105?theme=light)](https://auth.geeksforgeeks.org/user/kowshik0105)
