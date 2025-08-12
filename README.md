@@ -31,7 +31,7 @@
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=kowshikjallipalli0105&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-<a href="https://kowshikjallipalli0105.github.io/portfolio/" target="_blank">
+<a href="https://jallipallikowshik.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 
