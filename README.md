@@ -150,8 +150,8 @@
 ### 📈 GitHub Stats  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kowshikjallipalli0105&show_icons=true&theme=default)](https://github.com/kowshikjallipalli0105)
 
-### 🔥 Contribution Streak  
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kowshikjallipalli0105&theme=light&hide_border=false)](https://github.com/kowshikjallipalli0105)
+ 
+
 
 ### 📚 Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kowshikjallipalli0105&layout=compact)](https://github.com/kowshikjallipalli0105)
